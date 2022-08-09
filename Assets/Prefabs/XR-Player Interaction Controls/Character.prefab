@@ -789,7 +789,7 @@ GameObject:
   - component: {fileID: 8531460633612416691}
   - component: {fileID: 8503204479625598373}
   - component: {fileID: 8512300913642629199}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Character_Hair_Male_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8530948749235872825}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Eyes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1772,7 +1772,7 @@ GameObject:
   - component: {fileID: 8531271460841304549}
   - component: {fileID: 8503759143968426753}
   - component: {fileID: 8512005078905763237}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Character_Hair_Female_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2146,7 +2146,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8531109125966234097}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2775,7 +2775,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8537555942967118323}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Eyebrows
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -1073,6 +1073,102 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "XRI RightHand ButtonPress",
+            "id": "457ddfca-d699-45a9-a849-bea642c87402",
+            "actions": [
+                {
+                    "name": "PrimaryButton Pressed",
+                    "type": "Button",
+                    "id": "b9cfbf2f-faae-4ad7-8940-f67e2d59de14",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondayButton Pressed",
+                    "type": "Button",
+                    "id": "d8b713a7-e4c7-4895-9fcc-0db562abae2a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "27a63d66-7af0-4344-b756-6e740eaea926",
+                    "path": "<XRController>/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryButton Pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7e22ccd9-5ebc-44d3-ac60-c9e2659f101b",
+                    "path": "<XRController>/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondayButton Pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "XRI LeftHand ButtonPress",
+            "id": "c042392a-4132-41cb-8000-99b0953dedd1",
+            "actions": [
+                {
+                    "name": "PrimaryButtonPressed",
+                    "type": "Button",
+                    "id": "a1442bab-722d-4800-80db-06003ab0d72a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondaryButtonPressed",
+                    "type": "Button",
+                    "id": "2e48ffd3-26c6-4307-8821-f756f4536d52",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5594fd0f-1943-43dd-b7e8-900e27ad237a",
+                    "path": "<XRController>/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryButtonPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "97ac51c1-f319-4511-890a-1b5f37fdd2b6",
+                    "path": "<XRController>/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondaryButtonPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
